@@ -1,6 +1,5 @@
 # Stopwatch using React Native
 I have built a fully functional stopwatch using React Native. This app can work on Android as well as iOS.
-This project has been made following the YouTube tutorial by React Native Academy : https://www.youtube.com/watch?v=gWegskGYCtA .
 
 # Application Design
 The app consists of three screens.
